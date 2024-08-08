@@ -1,8 +1,20 @@
 # Singapore Resale Flat Prices Predicting
 
-## Data Sources
+## Table of Contents
 
-The data used in this project will be sourced from publicly available datasets provided by Singapore government agencies such as the Housing and Development Board (HDB) and Data.gov.sg.
+1. [Project Overview](#project-overview)
+2. [Problem Statement](#problem-statement)
+3. [Objectives](#objectives)
+4. [Data Sources](#data-sources)
+5. [Approach](#approach)
+6. [Learning Outcomes](#learning-outcomes)
+7. [Technologies and Tools](#technologies-and-tools)
+
+## Project overview
+The "Singapore Resale Flat Prices Predicting" project aims to develop a machine learning model to predict the resale prices of flats in Singapore. Utilizing historical data on resale flat transactions, the project seeks to provide potential buyers and sellers with a tool to estimate the resale value of a flat. 
+
+## Problem Statement:
+The objective of this project is to develop a machine learning model and deploy it as a user-friendly web application that predicts the resale prices of flats in Singapore. This predictive model will be based on historical data of resale flat transactions, and it aims to assist both potential buyers and sellers in estimating the resale value of a flat.
 
 ## Objectives
 
@@ -10,7 +22,10 @@ The data used in this project will be sourced from publicly available datasets p
 - Deploy a User-Friendly Web Application: Implement the predictive model within a Streamlit-based web application to make it accessible and user-friendly for end-users.
 - Assist Stakeholders: Provide valuable insights and predictions to potential buyers, sellers, real estate agents, and market analysts to help them make informed decisions.
 
-## Scope
+## Data Sources
+The data used in this project will be sourced from publicly available datasets provided by Singapore government agencies such as the Housing and Development Board (HDB) and Data.gov.sg.
+
+## Approach
 The project encompasses the following key steps:
 
 - Data Collection and Preprocessing: Gather and preprocess historical resale flat transaction data from reliable sources.
@@ -21,16 +36,7 @@ The project encompasses the following key steps:
 - Deployment on Render: Host the web application on Render for public access.
 - Testing and Validation: Rigorously test and validate the application to ensure it meets user needs and performs well in a real-world scenario.
 
-## Technologies and Tools
-The project will utilize the following technologies and tools:
-
-- Programming Languages: Python
-- Libraries and Frameworks: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit
-- Data Visualization: Matplotlib, Seaborn
-- Web Framework: Streamlit
-- Deployment: Render
-
-## Project Learning Outcomes
+## Learning Outcomes
 By completing this project, participants will gain:
 
 - An understanding of the end-to-end process of developing a predictive model.
@@ -40,3 +46,14 @@ By completing this project, participants will gain:
 - Experience in deploying machine learning models as web applications.
 - Familiarity with Streamlit for building interactive web applications.
 - Hands-on experience with deploying applications on Render.
+
+## Technologies and Tools
+The project will utilize the following technologies and tools:
+
+- Programming Languages: Python
+- Libraries and Frameworks: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit
+- Data Visualization: Matplotlib, Seaborn
+- Web Framework: Streamlit
+- Deployment: Render
+
+
