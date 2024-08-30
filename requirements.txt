@@ -3,7 +3,6 @@ scikit-learn
 scipy
 matplotlib
 seaborn
-xgboost
 pickle
 numpy
 streamlit
