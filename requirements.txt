@@ -3,7 +3,6 @@ scikit-learn
 scipy
 matplotlib
 seaborn
-pickle
 numpy
 streamlit
 streamlit_option_menu
