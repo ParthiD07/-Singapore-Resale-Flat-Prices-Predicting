@@ -1,10 +1,6 @@
 pandas
 scikit-learn
-scipy
 matplotlib
 seaborn
 numpy
 streamlit
-streamlit_option_menu
-folium
-streamlit_folium
